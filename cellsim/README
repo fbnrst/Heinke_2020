@@ -1,0 +1,3 @@
+needs swig, gsl and python for building with make
+ 
+
