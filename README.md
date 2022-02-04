@@ -1,5 +1,5 @@
 # Heinke_2020
-Diploid hepatocytes drive physiological liver renewal in adult humans
+Diploid hepatocytes drive physiological liver renewal in adult humans (https://doi.org/10.1101/2020.08.07.230086)
 
 
 The python package used for the simulation of the C14 concentration and the parameter estimation can be found here: 
