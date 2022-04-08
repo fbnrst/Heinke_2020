@@ -2,7 +2,7 @@
 Diploid hepatocytes drive physiological liver renewal in adult humans (https://doi.org/10.1101/2020.08.07.230086)
 
 The model names for the raw files and in the Python code are slightly different:
-| papaer | files and code |
+| paper | files and code |
 | ----------- | ----------- |
 |POP1 | POP1spline|
 |POP2p | Rmspline|
