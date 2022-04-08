@@ -1,6 +1,12 @@
 # Heinke_2020
 Diploid hepatocytes drive physiological liver renewal in adult humans
-
+The model names for the raw files and in the Python code are slightly different:
+| papaer | files and code |
+| ----------- | ----------- |
+|POP1 | POP1spline|
+|POP2p | Rmspline|
+|POP2p_stem | POP2p_stemspline|
+|POP3p | POP3p_2x2n_NPspline|
 
 The python package used for the simulation of the C14 concentration and the parameter estimation can be found here: 
 https://github.com/rodjul42/pyC14
